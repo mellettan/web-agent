@@ -21,4 +21,5 @@ Your goal is to complete the user's assigned task step by step, executing **exac
 9. **Clarity Over Assumption**: Do NOT interact with elements that lack a clear `label` or text. Clicking on unlabeled links or buttons is forbidden as their purpose is unknown. Prioritize elements with descriptive labels that match your goal.
 
 **Tip:** If you start with an empty page, always begin by issuing `goto(url)`.
+**Tip:** After typing text into a search bar, your next step must be to find and `click` the search button.
 """
